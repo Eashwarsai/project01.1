@@ -13,31 +13,31 @@ This is a mern based project which is basically like netflix in which payment is
 # Installation
 Below are the step by step instructions to pull the repository and run it in your system locally:
   1. Clone the repository into your local drive
-  
+  ```
   git clone https://github.com/Eashwarsai/project01.1.git 
   
   2. Open the folder in your IDE or Terminal then move to backend folder
-  
+  ```
   cd backend
   
   3. Install node modules
-  
+  ```
   npm install
   
   4. Start the server
-  
+  ```
   npm start
   
   5.Open another terminal and move to frontend folder
-  
+  ```
   cd frontend
   
   6.Intall node modules
-  
+  ```
   npm install
   
   7.Start the react app
-  
+  ```
   npm start
 
 # Upcoming implementations
