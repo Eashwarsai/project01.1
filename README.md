@@ -48,7 +48,7 @@ Below are the step by step instructions to pull the repository and run it in you
 - [ ] Provide users with glimse of movie like some trailer or teaser so that they can decide to go for the movie or not.
 ...
 # Contact 
-  > EashwarSai - @eashwarsaiboini@gmail.com
+  > EashwarSai  - @eashwarsaiboini@gmail.com
 
  All suggestions are accepted anyone who wish to give suggestion on the project kindly mail to the above mailId
 
