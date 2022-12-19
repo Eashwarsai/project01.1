@@ -12,7 +12,7 @@ This is a mern based project which is basically like netflix in which payment is
 
 # Installation
 Below are the step by step instructions to pull the repository and run it in your system locally:
-  ```
+  
   1. Clone the repository into your local drive
   ```
   git clone https://github.com/Eashwarsai/project01.1.git 
@@ -40,7 +40,7 @@ Below are the step by step instructions to pull the repository and run it in you
   7.Start the react app
   ```
   npm start
-  
+  ```
 # Upcoming implementations
 - [ ] Project is only for buying movies have to add functionality for renting movies.
 - [ ] Instead of always going to MyList to access the movies we bought make them possible to access from their current position.
